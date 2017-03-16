@@ -1,2 +1,2 @@
-Using Tinder's API to build a desktop version of the app. Implemented profiles retrieving, pass, like and change location feature.
+Using Tinder's API to build a desktop version of the app. Implemented profiles retrieving, pass, like and change location functionalities.
 Made using C#.
